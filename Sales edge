@@ -32,7 +32,13 @@
      {
         "device_id": "17877908011ba141",
         "key": "key678980hj0",
-        "expirydate": "15-06-2026",
+        "expirydate": "04-04-2026",
+        "Allowoffline": false
+    },
+     {
+        "device_id": "450f205f670514b1",
+        "key": "key678980hj60",
+        "expirydate": "08-04-2026",
         "Allowoffline": false
     },
 
