@@ -103,4 +103,10 @@
         "expirydate": "18-04-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "801b2ce413e2dc14",
+        "key": "97798678u0",
+        "expirydate": "18-05-2026",
+        "Allowoffline": false
+    },
 ]
