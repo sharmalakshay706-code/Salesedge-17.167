@@ -115,4 +115,11 @@
         "expirydate": "18-05-2026",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "34d1a84bdb061c7e",
+        "key": "8126wywt",
+        "expirydate": "18-05-2026",
+        "Allowoffline": false
+    },
 ]
